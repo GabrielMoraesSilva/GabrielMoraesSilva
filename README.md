@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielMoraesSilva
+- 👋 My name is Gabriel Moraes
 - 👀 I'm interested in learning programming
 - 🌱 I'm currently learning HTML, CSS and Javascript
 - 📫 How to reach me:
